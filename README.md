@@ -17,7 +17,7 @@ Este repositorio contiene el material necesario para las prácticas que se reali
 
 ### Enlace para los tutoriales de los módulos
 
-**Introducción a R y Bioconductor:** [https://pablobio.github.io/CursoVeranoRNASeq_2023/intro_anotaciones_funcionales.html](https://pablobio.github.io/CursoVeranoRNASeq_2023/intro_R_bioconductor.html)
+**Introducción a R y Bioconductor:** [https://pablobio.github.io/CursoVeranoRNASeq_2023/intro_R_bioconductor.html](https://pablobio.github.io/CursoVeranoRNASeq_2023/intro_R_bioconductor.html)
 
 **Introducción a las anotaciones funcionales:** [https://pablobio.github.io/CursoVeranoRNASeq_2023/intro_anotaciones_funcionales.html](https://pablobio.github.io/CursoVeranoRNASeq_2023/intro_anotaciones_funcionales.html)
 
