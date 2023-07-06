@@ -29,7 +29,7 @@ Los datos necesarios para los tutoriales se encuentran en la carpeta denominada 
 
 Para este curso, necesitará tener instaladas en su ordenador las últimas versiones de R y RStudio. Este software puede descargarse a través de los siguientes enlaces:
 
-- **R:** https://cran.irsn.fr/
+- **R:** https://cran.rediris.es/
 
 - **Rstudio:** https://rstudio.com/products/rstudio/download/
 
